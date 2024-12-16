@@ -15,4 +15,3 @@ nbconvert==7.16.3
 gdown==5.1.0
 ipykernel==6.29.4
 sacremoses==0.1.1
-gensim==4.3.2
